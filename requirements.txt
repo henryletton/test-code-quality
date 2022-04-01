@@ -1,0 +1,4 @@
+# Not used but examples
+numpy==1.18.5
+python-dotenv > 0.15.0
+scipy
